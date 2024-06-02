@@ -36,7 +36,8 @@
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/tirtakrmh/" target="blank"><img align="center" src=""></path></g></g></svg>" alt="tirtakrmh" height="30" width="40" /></a> -->
 </p> -->
-<a href="https://www.linkedin.com/in/tirtakrmh/" target="_blank">
+<a href="https://www.linkedin.com/in/tirtakrmh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
+<!-- <a href="https://www.linkedin.com/in/tirtakrmh/" target="_blank">
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width="40"
@@ -53,7 +54,7 @@
         <rect x="2" y="9" width="4" height="12"></rect>
         <circle cx="4" cy="4" r="2"></circle>
     </svg>
-</a>
+</a> -->
 
 <br>
 <!-- 
