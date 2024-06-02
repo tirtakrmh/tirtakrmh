@@ -34,7 +34,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/tirtakrmh/" target="blank"><img align="center" src="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" id="linkedin" alt="tirtakrmh" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/tirtakrmh/" target="blank"><img align="center" src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.87 28.87" id="linkedin"><g><g><rect width="28.87" height="28.87" fill="#0b86ca" rx="6.48" ry="6.48"></rect><path fill="#fff" d="M8 12h3v9.68H8zm1.53-4.81a1.74 1.74 0 11-1.74 1.75 1.74 1.74 0 011.74-1.75M12.92 12h2.89v1.32a3.16 3.16 0 012.85-1.56c3 0 3.61 2 3.61 4.61v5.31h-3V17c0-1.12 0-2.57-1.56-2.57s-1.8 1.22-1.8 2.48v4.79h-3z"></path></g></g></svg>" alt="tirtakrmh" height="30" width="40" /></a> -->
 </p>
 
 <br>
