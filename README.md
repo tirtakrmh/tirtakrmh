@@ -34,28 +34,8 @@
 
 ## Connect with me:
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/tirtakrmh/" target="blank"><img align="center" src=""></path></g></g></svg>" alt="tirtakrmh" height="30" width="40" /></a> -->
-</p> -->
 <a href="https://www.linkedin.com/in/tirtakrmh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
-<!-- <a href="https://www.linkedin.com/in/tirtakrmh/" target="_blank">
-    <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="40"
-        height="40"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        class="feather feather-linkedin"
-    >
-        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2h-2v9H8V8h4v2h.01"></path>
-        <rect x="2" y="9" width="4" height="12"></rect>
-        <circle cx="4" cy="4" r="2"></circle>
-    </svg>
-</a> -->
-
+</p>
 <br>
 <!-- 
 <a><img align="left" src="https://github.com/farhannuryadi/farhannuryadi/blob/output/github-contribution-grid-snake.gif" alt="contribution" /></a> -->
